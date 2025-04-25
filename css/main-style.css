@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#hero
+{
+	width: 100%;	
+	background-image: url("../images/watercolor-emerald-background/8764038.jpg");
+	background-repeat: no-repeat; background-size: cover
+
+}
+
+#testimonial
+{
+	width: 100%;	
+	background-image:url("../images/Name Card-01.svg");
+	background-repeat: no-repeat; background-size: cover
+}
+.icon-color{
+	color: aliceblue
+}
